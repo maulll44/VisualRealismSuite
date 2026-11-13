@@ -4,7 +4,7 @@
 **NIM    :** 25050974036
 **Kelas  :** 2025A
 **Mata Kuliah :** Grafika Komputer
-**Repo GitHub :** (isi sendiri)
+**Repo GitHub :** https://github.com/maulll44/VisualRealismSuite
 
 Java 17+, LWJGL 3.3.3, JOML 1.10.5, GLSL 330 core. Project berbentuk **Maven** sehingga bisa langsung dibuka di NetBeans.
 
