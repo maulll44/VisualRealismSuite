@@ -1,9 +1,9 @@
 # 3D Visual Realism Suite (ThreeDViewing - Minggu 11)
 
 **Nama   :** MAULANA FAWADH REZAKA
-**NIM    :** (isi sendiri)
-**Kelas  :** (isi sendiri)
-**Mata Kuliah :** Grafika Komputer (CGO-301)
+**NIM    :** 25050974036
+**Kelas  :** 2025A
+**Mata Kuliah :** Grafika Komputer
 **Repo GitHub :** (isi sendiri)
 
 Java 17+, LWJGL 3.3.3, JOML 1.10.5, GLSL 330 core. Project berbentuk **Maven** sehingga bisa langsung dibuka di NetBeans.
